@@ -1,0 +1,24 @@
+ID,Observation Identifier
+authors,Authors
+title,Publication title
+year,Year of publication
+Group,Generic name of taxonoimc group
+class,Taxonomic class
+species,Scientific name as reported by author's
+biome,"Terrestria biome as per Terrestrial Ecoregions dataset (Dinerstein et al., 2017)"
+study_site,Site name as reported by authors
+country,Country as reported by Authors
+main_interest,Main interest of the study: A - description/application/assessment of SPOM; B - SPOMs comparison; C  - insight to metapopulation dynamic of species; D -  modelling for conservation or management purposes
+aim,Study aim as described by the author's
+model,"Model names as reported by the authors: author's, SPOM developed by author(s) without name; Incidence function model (IFM);  based on incidence function model but modified by the authors (IFM+); Levins metapopulation model (Levins); MANAGE; Propagule rain model (PRM).  Source: Web of Science (WoS) or Snowball method (SB) "
+patch_definition,Patch definiton as described by the authors
+no_patches,Number of patches
+tot_extent,Total extent of study area
+tot_patch_area,Total area of patches
+mean_patch_area,Mean patch area
+median_patch_area,Meadian patch area
+max_patch_area,Maximum patch area
+area_unit,Area unit
+total_time_study,Total time of the study
+metapop_status,Metapopulation status: 1 -  asserted; 2 - tested and/or discussed
+predictive_adequacy,Appraoch for assessing predictive adequacy: 1 - not assessed or in agreement with other studies; 2 - compared observed vs expected patch occupancy; 3 - statistical analyses to evaluate landscape variables and/or parameters performance  

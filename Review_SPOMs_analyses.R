@@ -4,8 +4,8 @@
 #Date: August 2023
 
 #INDEX
-# Species Numeralia                                               (line 29)
-# Species IUCN status                                             (line 58)
+# Species Numeralia                                               (line 29) 
+# Species IUCN status                                             (line 58) 
 #H1. Conservation and management studies have increased with time (line 87)
 #H2. a. Taxonomic diversity has increased with time               (line 111)
 #    b. There is a taxonomic bias towards insects                 (line 153)
@@ -24,7 +24,7 @@ library(nnet)
 library (vegan)
 
 #Import database
-db = read.csv("SPOM_database.csv",na.strings = c("NA",""),stringsAsFactors=T,fileEncoding="UTF-8-BOM" )
+db = read.csv("SPOM_database.csv", na.strings = c("NA"))
 
 #Species numeralia --------
 

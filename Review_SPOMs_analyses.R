@@ -1,6 +1,5 @@
 #Analyses reported in the review article 'Broadening applications of stochastic patch occupancy models over three decades'
 
-#Code authors: Crone E, Gutierrez-Arellano C, Hodgson J
 #Date: August 2023
 
 #INDEX
